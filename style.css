@@ -1,0 +1,15 @@
+.container{
+    margin-left: 10%;
+    margin-right:10% ;
+    width: 100%;
+    display: center;
+   .navbar-brand{
+  font-size: 12px;
+
+
+    }
+    .resisize img
+    {
+        margin-right:5px;
+}
+}
